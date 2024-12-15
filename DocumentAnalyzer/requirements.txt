@@ -1,0 +1,5 @@
+opencv-python==4.8.0.74  # Pour le traitement d'images
+numpy==1.24.4            # Pour les calculs mathématiques et manipulation de tableaux
+pytesseract==0.3.10      # Pour la reconnaissance optique des caractères (OCR)
+streamlit==1.26.0        # Pour créer une interface utilisateur interactive 
+scikit-learn==1.3.0      # Algorithmes de classification et apprentissage machine
