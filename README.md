@@ -24,17 +24,20 @@ DocumentAnalyzer est une application développée en Python avec OpenCV. Elle pe
    git clone https://github.com/votre-utilisateur/DocumentAnalyzer.git
    
 2. Installer les dépendances 🔧:
+   ```bash
    pip install -r requirements.txt
 
 ## Utilisation
 - Mode image :
 Placez vos fichiers dans le dossier input_images.
 💫 Lancez le script principal :
-python main.py
+   ```bash
+   python main.py
 
 - Mode vidéo :
 Connectez une webcam et lancez :
-python video_processing.py
+   ```bash
+   python video_processing.py
 
 
 ## Organisation du code
